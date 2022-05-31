@@ -23,4 +23,4 @@
 - 📫Inbox me: <a href="kareraolivier@gmail.com">send me an email</a>
 - ⚡ Fun fact: I can't figure out mine!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kareraolivier&hide=isues,stars&?count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kareraolivier&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kareraolivier&hide=isues,stars&?count_private=true&theme=radical)](https://github.com/kareraolivier/myPortfolio-NodeBackend)   [![Top Langs](https://github.com/kareraolivier/AndelaPortifolio/?username=kareraolivier&layout=compact)](https://github.com/kareraolivier/OnlineExaminationSystem)
