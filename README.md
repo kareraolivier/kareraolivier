@@ -13,7 +13,7 @@
 
 ### Gist About Me
 - 🔭 I am a full-stack developer.
-- 🔭 I’m currently working on dev_pulse project from andela
+- 🔭 I’m currently working on personal project.
 - 🌱 I’m currently learning more on node js
 - 👯 I’m looking to collaborate on different opensource project
 - 🤔 I’m looking for help in python(django)
