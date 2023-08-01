@@ -24,3 +24,10 @@
 - ⚡ Fun fact: I can't figure out mine!
 
 [![kareraolivier's GitHub stats](https://github-readme-stats.vercel.app/api?username=kareraolivier&hide=isues,stars&?count_private=true&theme=radical)](https://github.com/kareraolivier/myPortfolio-NodeBackend)  
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kareraolivier&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=lareraolivier&icon=0&color=0)](https://visitcount.itsvg.in)
