@@ -28,14 +28,13 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kareraolivier&?count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
 
-//<p align="left">
+
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/kareraolivier) 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/karera-olivier-69a7971bb/) 
 [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:kareraolivier@gmail.com) 
 [![See my resume](https://img.shields.io/badge/--resume?label=Resume&logo=resume&style=social)](#) 
 [![See my portfolio](https://img.shields.io/badge/--portfolio?label=Portfolio&logo=portfolio&style=social)](https://karera-olivier-me.netlify.app/)
-<a href="https://www.codewars.com/users/kareraolivier"><img src="https://www.codewars.com/users/kareraolivier/badges/micro"></a>
-___
-//</p>
+<a target='_black' href="https://www.codewars.com/users/kareraolivier"><img src="https://www.codewars.com/users/kareraolivier/badges/micro"></a>
+
 
 
