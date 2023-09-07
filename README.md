@@ -27,9 +27,24 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kareraolivier&?count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
-## Connect with me:
-<p align="left">
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/kareraolivier) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/karera-olivier-69a7971bb/) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:kareraolivier@gmail.com) [![See my resume](https://img.shields.io/badge/--resume?label=Resume&logo=resume&style=social)](#) [![See my portfolio](https://img.shields.io/badge/--portfolio?label=Portfolio&logo=portfolio&style=social)](https://karera-olivier-me.netlify.app/)
+
+//<p align="left">
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/kareraolivier) 
+[![Connect on LinkedIn] https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/karera-olivier-69a7971bb/) 
+[![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:kareraolivier@gmail.com) 
+[![See my resume](https://img.shields.io/badge/--resume?label=Resume&logo=resume&style=social)](#) 
+[![See my portfolio](https://img.shields.io/badge/--portfolio?label=Portfolio&logo=portfolio&style=social)](https://karera-olivier-me.netlify.app/)
 <a href="https://www.codewars.com/users/kareraolivier"><img src="https://www.codewars.com/users/kareraolivier/badges/micro"></a>
+___
+//</p>
+
+
+<p align="left">
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/ibrahim_Bagalwa) 
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/IbrahimBagalwa) 
+[![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:bagmurhulaibrahim@gmail.com) 
+[![See my resume](https://img.shields.io/badge/--resume?label=Resume&logo=resume&style=social)](#) 
+[![See my portfolio](https://img.shields.io/badge/--portfolio?label=Portfolio&logo=portfolio&style=social)](https://ibrahimbagalwa.github.io/Portfolio/)
+<a href="https://www.codewars.com/users/Ibrahim%20Bagalwa"><img src="https://www.codewars.com/users/Ibrahim%20Bagalwa/badges/micro"></a>
 ___
 </p>
