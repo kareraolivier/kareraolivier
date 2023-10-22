@@ -21,7 +21,6 @@
 - 📫 How to reach me: Kareraolivier@gmail.com
 - 👯 I don't miss the target, Here i can get manythings you might need, let's create a world full of wonders.
 - 📫Inbox me: <a href="kareraolivier@gmail.com">send me an email</a>
-- ⚡ Fun fact: I can't figure out mine!
 
 <h3> :chart: &nbsp;GitHub Stats </h3>
 
