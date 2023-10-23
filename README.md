@@ -36,4 +36,4 @@
 <a target='_black' href="https://www.codewars.com/users/kareraolivier"><img src="https://www.codewars.com/users/kareraolivier/badges/micro"></a>
 
 
-
+<a href="https://app.daily.dev/kareraolivier"><img src="https://api.daily.dev/devcards/8a0994e1e4e44a60a1f77b29b06ae1df.png?r=o60" width="400" alt="Karera Olivier's Dev Card"/></a>
