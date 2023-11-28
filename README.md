@@ -37,4 +37,12 @@
 [![See my portfolio](https://img.shields.io/badge/--portfolio?label=Portfolio&logo=portfolio&style=social)](https://karera-olivier-me.netlify.app/)
 <a target='_black' href="https://www.codewars.com/users/kareraolivier"><img src="https://www.codewars.com/users/kareraolivier/badges/micro"></a>
 
-
+ <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kareraolivier&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=true" alt="thomas |Stats" />
+   
+   <a href="https://github.com/devfabien"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kareraolivier&theme=algolia&hide_border=true"  width="520" alt="devfabien"/></a>
+  
+![devfabien's Trophy](https://github-profile-trophy.vercel.app/?username=kareraolivier&theme=algolia&column=4&no-frame=true)
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareraolivier&theme=dracula&layout=compact"/>
+ 
+  </div>
