@@ -47,8 +47,6 @@
 ###
 
 
-
-
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/kareraolivier) 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/karera-olivier-69a7971bb/) 
 [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:kareraolivier@gmail.com) 
@@ -58,8 +56,8 @@
 <a target='_black' href="https://www.codewars.com/users/kareraolivier"><img src="https://www.codewars.com/users/kareraolivier/badges/micro"></a>
 
  <div>
-   <a href="https://github.com/kareraolivier"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kareraolivier&theme=radical&hide_border=true"  width="520" alt="kareraolivier"/></a>
+   <a href="https://github.com/kareraolivier"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kareraolivier&theme=radical&hide_border=true"  width="680" height="200" alt="kareraolivier"/></a>
   
-  ![kareraolivier's Trophy](https://github-profile-trophy.vercel.app/?username=kareraolivier&theme=radical&column=4&no-frame=true)
+  ![kareraolivier's Trophy](https://github-profile-trophy.vercel.app/?username=kareraolivier&theme=radical&column=5&no-frame=true&&margin-w=20&&margin-h=15)
   
  </div>
