@@ -30,7 +30,7 @@
 
 ### Gist About Me
 - 🔭 I am a full-stack developer.
-- 🔭 I’m currently working the intern at The Gym Rwanda.
+- 🔭 I’m currently working as an intern at The Gym Rwanda.
 - 🌱 I’m currently learning more on react and nest js
 - 👯 I’m looking to collaborate on different opensource project
 - 🤔 I’m looking for help in python(django)
