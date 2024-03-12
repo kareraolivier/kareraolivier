@@ -30,7 +30,7 @@
 
 ### Gist About Me
 - 🔭 I am a full-stack developer.
-- 🔭 I’m currently working as frontend developer at <a href="https://enaccess.org" target='blank'>EnAccess.</a>
+- 🔭 I’m currently working as frontend developer at <a href="https://enaccess.org" target='_blank'>EnAccess.</a>
 - 🌱 I’m currently learning more on react and nest js
 - 👯 I’m looking to collaborate on different opensource project
 - 🤔 I’m looking for help in python(django)
