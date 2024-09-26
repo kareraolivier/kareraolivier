@@ -39,7 +39,12 @@
 - 👯 I don't miss the target, Here i can get manythings you might need, let's create a world full of wonders.
 - 📫Inbox me: <a href="kareraolivier@gmail.com">send me an email</a>
 
-
+<a target='_black' href="https://www.codewars.com/users/kareraolivier"><img src="https://www.codewars.com/users/kareraolivier/badges/micro"></a>
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/kareraolivier) 
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/karera-olivier-69a7971bb/) 
+[![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:kareraolivier@gmail.com) 
+[![See my resume](https://img.shields.io/badge/--resume?label=Resume&logo=resume&style=social)](#) 
+[![See my portfolio](https://img.shields.io/badge/--portfolio?label=Portfolio&logo=portfolio&style=social)](https://karera-olivier-me.netlify.app/)
 ###
 <h3> :chart: &nbsp;GitHub Stats </h3>
 
@@ -47,18 +52,6 @@
 
 ###
 
-
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/kareraolivier) 
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/karera-olivier-69a7971bb/) 
-[![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:kareraolivier@gmail.com) 
-[![See my resume](https://img.shields.io/badge/--resume?label=Resume&logo=resume&style=social)](#) 
-[![See my portfolio](https://img.shields.io/badge/--portfolio?label=Portfolio&logo=portfolio&style=social)](https://karera-olivier-me.netlify.app/)
-
-<a target='_black' href="https://www.codewars.com/users/kareraolivier"><img src="https://www.codewars.com/users/kareraolivier/badges/micro"></a>
-
  <div>
-   //<a href="https://github.com/kareraolivier"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kareraolivier&theme=radical&hide_border=true"  width="680" height="200" alt="kareraolivier"/></a>
-  
-  ![kareraolivier's Trophy](https://github-profile-trophy.vercel.app/?username=kareraolivier&theme=radical&column=5&no-frame=true&&margin-w=20&&margin-h=15)
-  
+   <a href="https://github.com/kareraolivier"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kareraolivier&theme=radical&hide_border=true"  width="680" height="200" alt="kareraolivier"/></a>  
  </div>
