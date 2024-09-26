@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Karera Olivier
+### Hi there 👋 I'm Olivier Karera 
 
 <h3>🛠 Language, tools and tech stacks</h3>
 
