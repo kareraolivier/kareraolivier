@@ -57,7 +57,7 @@
 <a target='_black' href="https://www.codewars.com/users/kareraolivier"><img src="https://www.codewars.com/users/kareraolivier/badges/micro"></a>
 
  <div>
-   <a href="https://github.com/kareraolivier"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kareraolivier&theme=radical&hide_border=true"  width="680" height="200" alt="kareraolivier"/></a>
+   //<a href="https://github.com/kareraolivier"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kareraolivier&theme=radical&hide_border=true"  width="680" height="200" alt="kareraolivier"/></a>
   
   ![kareraolivier's Trophy](https://github-profile-trophy.vercel.app/?username=kareraolivier&theme=radical&column=5&no-frame=true&&margin-w=20&&margin-h=15)
   
